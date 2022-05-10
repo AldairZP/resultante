@@ -56,6 +56,8 @@ inputD7.type = 'number';
 inputA7.type = 'number';
 inputD7.type = 'number';
 inputA7.type = 'number';
+inputD8.type = 'number';
+inputA8.type = 'number';
 
 let inputsD = [inputD1, inputD2, inputD3, inputD4, inputD5, inputD6, inputD7, inputD8];
 let inputsA = [inputA1, inputA2, inputA3, inputA4, inputA5, inputA6, inputA7, inputA8];
