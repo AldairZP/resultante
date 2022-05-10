@@ -119,6 +119,9 @@ class Resultante {
         } else if (this.sumX > 0 && this.sumY < 0) {
             A += 360;
         }
+        if (A/A != 1) {
+            A = 0;
+        }
         if (A % 1 == 0) {
             return A.toFixed(0);
         } else {
