@@ -182,6 +182,12 @@ input {
         padding: 5px;
         padding-left: 35px;
     }
+    .circle__1::before {
+        content: none;
+    }
 
+    .circle__3::before {
+        content: none;
+    }
 
 }
