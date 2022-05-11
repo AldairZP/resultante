@@ -70,7 +70,8 @@
 .frame {
     display: flex;
     position: absolute;
-    width: 60%;
+    min-width: 400px;
+    width: 40%;
     height: min-content;
     padding-bottom: 5%;
     margin-bottom: 5%;
