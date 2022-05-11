@@ -72,7 +72,6 @@
     position: absolute;
     width: 60%;
     height: min-content;
-    padding-top: 5%;
     padding-bottom: 5%;
     margin-bottom: 5%;
     flex-wrap: wrap;
@@ -92,6 +91,7 @@
     height: min-content;
     padding: 5px;
     padding-left: 35px;
+    padding-top: 8%;
 }
 
 .form {
@@ -156,7 +156,6 @@ input {
         flex-wrap: wrap;
         align-items: center;
         top: 50px;
-        padding-top: 5%;
         padding-bottom: 0%;
         margin-bottom: 0%;
     }
