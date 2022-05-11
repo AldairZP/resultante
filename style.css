@@ -153,6 +153,7 @@ input {
 
     /* For mobile phones: */
     .frame {
+        min-width: auto;
         width: 95vw;
         flex-wrap: wrap;
         align-items: center;
