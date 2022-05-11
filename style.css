@@ -185,10 +185,14 @@ input {
     }
     .circle__1::before {
         content: none;
+        top: -5%;
+        left: 20%;
     }
 
     .circle__3::before {
         content: none;
+        bottom: 5%;
+        right: 3%;
     }
 
 }
