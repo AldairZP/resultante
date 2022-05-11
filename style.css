@@ -149,7 +149,7 @@ input {
 
 }
 
-@media only screen and (max-width: 850px) {
+@media only screen and (max-width: 740px) {
 
     /* For mobile phones: */
     .frame {
