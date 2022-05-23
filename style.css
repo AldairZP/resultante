@@ -24,8 +24,8 @@
     height: 400px;
     background: linear-gradient(45deg, #F72585, #4CC9F0);
     border-radius: 50%;
-    top: -5vh;
-    left: 20vw;
+    top: -5%;
+    left: 20%;
 }
 
 .circle__2::before {
@@ -35,8 +35,8 @@
     height: 500px;
     background: linear-gradient(45deg, #FB5607, #8338EC);
     border-radius: 50%;
-    bottom: -20vh;
-    left: -10vw;
+    bottom: -20%;
+    left: -10%;
 
 }
 
@@ -47,8 +47,8 @@
     height: 200px;
     background: linear-gradient(45deg, #F72585, #4CC9F0);
     border-radius: 50%;
-    bottom: 5vh;
-    right: 3vw;
+    bottom: 5%;
+    right: 3%;
 
 
 }
@@ -60,8 +60,8 @@
     height: 350px;
     background: linear-gradient(45deg, #FB5607, #8338EC);
     border-radius: 50%;
-    top: -2vh;
-    right: -5vw;
+    top: -2%;
+    right: -5%;
 
 }
 
