@@ -157,7 +157,9 @@ select.addEventListener('change', (e) => {
         }
     } else if (valueSelect < count) {
         for (let i = valueSelect; i < count; i++) {
+            form.lastElementChild.value = null;
             form.removeChild(form.lastElementChild);
+            form.lastElementChild.value = null;
             form.removeChild(form.lastElementChild);
         }
     }
